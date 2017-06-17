@@ -11,7 +11,7 @@
       <h2 class="section-heading">{{page.title}}</h2>
       <ul class="post-list">
           <li>
-            <img alt="" src="{{page.image-link}}" style="height:320px; float:right; margin:10px;" />
+            <img alt="Event Image" src="{{page.image-link}}" style="height:320px; float:right; margin:10px;" />
             <h2><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
             <p>
               {% if page.start-date %}<strong>Starts:</strong> {{ page.start-date | date: "%b %-d, %Y" }}{% endif %}{% if page.end-date %}<strong> Ends: </strong> {{ page.end-date | date: "%b %-d, %Y" }}<br>{% endif %}
