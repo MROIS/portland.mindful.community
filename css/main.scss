@@ -38,6 +38,25 @@ p{
   font-weight: 300;
 }
 
+@media (max-width: 425px){
+  .navbar-brand {
+    margin-top: 8px;
+    font-size: .6rem;
+  }
+}
+
+@media (max-width: 768px){
+  .intro-header {
+      height: 50% !important;
+  }
+}
+
+@media (max-width: 425px){
+  .intro-header {
+      height: 25% !important;
+  }
+}
+
 //    <!-- Temporary navbar container fix -->
 .navbar-toggler {
     z-index: 1;
