@@ -1,33 +1,26 @@
 <section class="content-section-b">
-
     <div class="container">
-
         <div class="row">
-            <div class="col-lg-12">
+          <div class="col-lg-12">
+            <h2 class="section-heading">Events</h2>
+          </div>
+        </div>
+        <div class="row">
+          {% for post in site.posts %}
+            <div class="col-lg-5">
                 <hr class="section-heading-spacer">
                 <div class="clearfix"></div>
-                <h2 class="section-heading">Events</h2>
+                <h2 class="section-heading"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
                 <p>
-                  <ul class="post-list">
-                    {% for post in site.posts %}
-                      <li>
-                        <img alt="Event Image" src="{{post.image-link}}" style="height:320px; float:right; margin:10px;" />
-                        <h2><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
-                        <p>
-                          {% if post.start-date %}<strong>Starts:</strong> {{ post.start-date | date: "%b %-d, %Y" }}{% endif %}{% if post.end-date %}<strong> Ends: </strong> {{ post.end-date | date: "%b %-d, %Y" }}<br>{% endif %}
-                          {% if post.location %}<strong>Location:</strong> {{ post.location }}<br>{% endif %}
-                          {% if page.link %}<strong>Link:</strong> <a href="{{ page.link }}">{{ post.link }}</a>{% endif %}
-                        </p>
-                      </li>
-                    {% endfor %}
-                  </ul>
-
+                  {% if post.start-date %}<strong>Starts:</strong> {{ post.start-date | date: "%b %-d, %Y" }}{% endif %}{% if post.end-date %}<strong> Ends: </strong> {{ post.end-date | date: "%b %-d, %Y" }}<br>{% endif %}
+                  {% if post.location %}<strong>Location:</strong> {{ post.location }}<br>{% endif %}
+                  {% if page.link %}<strong>Link:</strong> <a href="{{ page.link }}">{{ post.link }}</a>{% endif %}
                 </p>
             </div>
+            <div class="col-lg-5 offset-lg-2">
+                <img class="img-fluid" src="{{post.image-link}}" alt="Event Image">
+            </div>
+          {% endfor %}
         </div>
-
     </div>
-    <!-- /.container -->
-
 </section>
-<!-- /.content-section-b -->
