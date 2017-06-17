@@ -19,6 +19,17 @@ a:focus, a:hover {
     color: #ffb200;
 }
 
+.navbar-inverse .navbar-nav .nav-link {
+    color: #f27a00;
+}
+.navbar-inverse .navbar-nav .nav-link:focus,
+.navbar-inverse .navbar-nav .nav-link:hover {
+    color: #ffb200;
+}
+
+
+
+
 p{
   font-size: 1.25rem;
   font-weight: 300;
@@ -99,6 +110,11 @@ p{
     text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.6);
 }
 
+
+.post-list {
+    list-style-type:none;
+    padding-left: 0px;
+}
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 //@import

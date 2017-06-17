@@ -6,7 +6,20 @@
 {% include header.html %}
 <section class="content-section-a">
     <div class="container">
-{{ content }}
+      <hr class="section-heading-spacer">
+      <div class="clearfix"></div>
+      <h2 class="section-heading">{{page.title}}</h2>
+      <ul class="post-list">
+          <li>
+            <h2><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
+            <p>
+              {% if page.start-date %}<strong>Starts:</strong> {{ page.start-date | date: "%b %-d, %Y" }}{% endif %}{% if page.end-date %}<strong> Ends: </strong> {{ page.end-date | date: "%b %-d, %Y" }}<br>{% endif %}
+              {% if page.location %}<strong>Location:</strong> {{ page.location }}<br>{% endif %}
+              {% if page.link %}<strong>Link:</strong> <a href="{{ page.link }}">{{ page.link }}</a><br>{% endif %}
+            </p>
+          </li>
+      </ul>
+      {{ content }}
     </div>
 </div>
 
