@@ -43,6 +43,7 @@ header-image-height: 320px
                   <ul class="post-list">
                     {% for post in site.posts %}
                       <li>
+                        <img alt="" src="{{post.image-link}}" style="height:320px; float:right; margin:10px;" />
                         <h2><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
                         <p>
                           {% if post.start-date %}<strong>Starts:</strong> {{ post.start-date | date: "%b %-d, %Y" }}{% endif %}{% if post.end-date %}<strong> Ends: </strong> {{ post.end-date | date: "%b %-d, %Y" }}<br>{% endif %}
