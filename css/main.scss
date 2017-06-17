@@ -1,0 +1,106 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+// Import partials from `sass_dir` (defaults to `_sass`)
+@import
+        "landing-page"
+;
+
+
+@charset "utf-8";
+
+
+a {
+    color: #f27a00;
+}
+
+a:focus, a:hover {
+    color: #ffb200;
+}
+
+p{
+  font-size: 1.25rem;
+  font-weight: 300;
+}
+
+//    <!-- Temporary navbar container fix -->
+.navbar-toggler {
+    z-index: 1;
+}
+
+@media (max-width: 576px) {
+    nav > .container {
+        width: 100%;
+    }
+}
+
+
+.intro-header {
+    margin-top: 50px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+
+.bg-faded {
+    background-color: #333333;
+}
+
+
+#site-logo {
+    width: 32px;
+    height: 30px;
+    background: url(/img/logo.png) 0 0;
+    float: left;
+    margin-top: 7px;
+    margin-left: 10px;
+    padding-right: 30px;
+    margin-right: 10px;
+}
+
+
+.links {
+    padding: 75px 0;
+    color: #ffffff;
+    background-color: #333333;
+    border-color: #222222;
+}
+
+.links ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+#footer-logo {
+    width: 250px;
+    height: 236px;
+    background: url(/img/logo-footer.png) 0 0;
+    margin-top: 7px;
+    margin-left: 8px;
+}
+
+.btn-mc {
+    padding: 10px;
+    margin-top: 10px;
+    width: 100%;
+    background-color: #f27a00 !important;
+    border-radius: 4px !important;
+    border: none;
+}
+
+
+.btn-mc:focus, .btn-mc:hover {
+    background-color: #ffb200 !important;
+}
+
+.banner h4 {
+    margin: 0;
+    text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.6);
+}
+
+
+// Import partials from `sass_dir` (defaults to `_sass`)
+//@import
+//        "inverse"
+//;
