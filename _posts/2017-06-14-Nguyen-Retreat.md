@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "Thu and Anh-Huong Nguyen Retreat"
-permalink: /events/thu-and-anh-huong-nguyen-retreat
+permalink: /events/thu-and-anh-huong-nguyen-retreat/
 start-date:   2017-08-03
 end-date:   2017-08-06
 location: "Alton L Collins Retreat Center<br>32867 OR-211<br>Eagle Creek , OR"

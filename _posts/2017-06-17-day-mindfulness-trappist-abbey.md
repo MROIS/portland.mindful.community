@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "Days of Mindfulness at Trappist Abbey"
-permalink: /events/day-mindfulness-trappist-abbey
+permalink: /events/day-mindfulness-trappist-abbey/
 location: "Our Lady of Guadalupe Trappist Abbey<br>9200 NE Abbey Road<br>Carlton , OR"
 start-date:   
 end-date:   

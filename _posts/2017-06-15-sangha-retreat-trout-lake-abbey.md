@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "Sangha Retreat at Trout Lake Abbey"
-permalink: /events/sangha-retreat-trout-lake-abbey
+permalink: /events/sangha-retreat-trout-lake-abbey/
 start-date:   2017-07-07
 end-date:   2017-07-09
 location: "Trout Lake Abbey<br>46 Stoller Road<br>Trout Lake , WA"

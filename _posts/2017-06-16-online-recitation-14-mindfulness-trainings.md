@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "Online Recitation of 14 Mindfulness Trainings"
-permalink: /events/online-recitation-14-mindfulness-trainings
+permalink: /events/online-recitation-14-mindfulness-trainings/
 location: "Online"
 start-date:   
 end-date:   
