@@ -6,7 +6,7 @@ start-date:   2017-08-03
 end-date:   2017-08-06
 location: "Alton L Collins Retreat Center<br>32867 OR-211<br>Eagle Creek , OR"
 link: http://events.r20.constantcontact.com/register/event?llr=vkplmziab&oeidk=a07ednnw1xpc7ce86ab
-image-link: http://portland.mindful.community/sites/default/files/styles/event_page/public/thu_ang1.jpg
+image-link: http://bostonoldpath.org/wp-content/uploads/2016/02/Fotolia_8062163_XS.jpg
 ---
 
 We are happy to invite you to our annual Oregon & SW Washington retreat.  We are fortunate to have Anh-Huoung and Thu Nguyen leading this year.  The retreat will be held at the lovely Alton L. Collins retreat center. The cost is $425 with scholarships available.
