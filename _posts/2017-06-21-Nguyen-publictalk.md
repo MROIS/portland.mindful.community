@@ -1,9 +1,9 @@
 ---
 layout: event
 title:  "Public Talk with Thu and Anh-Huong Nguyen"
-permalink: /events/thu-and-anh-huong-nguyen-retreat/
-start-date:   2017-08-07
-end-date: 2017-08-07  
+permalink: /events/thu-and-anh-huong-nguyen-talk/
+start-date:   2017-08-02
+end-date: 2017-08-02  
 location: "Unity of Portland<br>4525 SE Stark St, Portland, OR 97215"
 link: 
 image-link: http://oi67.tinypic.com/mb097b.jpg
