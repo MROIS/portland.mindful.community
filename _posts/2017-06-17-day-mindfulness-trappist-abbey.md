@@ -28,3 +28,9 @@ Friday, May 19 (3rd Friday)
 Friday, June 16 (3rd Friday)
 
 Friday, July 21 (3rd Friday)
+
+Friday, Aug 11	(2nd Friday)
+
+Friday, Sept 8	(2nd Friday
+
+Friday, Oct 27	(4th Friday)
