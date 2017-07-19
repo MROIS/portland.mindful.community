@@ -10,7 +10,7 @@ title: Portland Community of Mindful Living
 email: info@mindful.community
 description: "The Portland Community of Mindful Living practices meditation and mindfulness in the tradition of Zen Master Thich Nhat Hanh."
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://portland.mindful.community" # the base hostname & protocol for your site
+url: "https://portland.mindful.community" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
