@@ -9,6 +9,8 @@ link:
 image-link: /events/lludrum.jpg
 ---
 
+9:00 a.m. to 3:00 p.m. 
+
 Sponsored by the Thursday Night Sangha and Refuge of the Heart Sangha.
 All are welcome!
 
