@@ -6,7 +6,7 @@ location: "Our Lady of Guadalupe Trappist Abbey<br>9200 NE Abbey Road<br>Carlton
 start-date:   
 end-date:   
 link:
-image-link: https://retreatnetwork.s3.amazonaws.com/wp-content/uploads/2014/01/Our-Lady-of-Guadalupe-Trappist-Abbey2.jpg
+image-link: /events/Our-Lady-of-Guadalupe-Trappist-Abbey2.jpg
 ---
 
 Dear friends:
