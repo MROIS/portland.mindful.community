@@ -6,7 +6,7 @@ location: "Online"
 start-date:   
 end-date:   
 link: https://zoom.us/j/823972170
-image-link: http://www.sussex.ac.uk/broadcast/images/uploads/2016/04/6106.item.jpg
+image-link: /events/mindfulness.jpg
 ---
 
 We are happy to share a new opportunity for coming together to recite our beautiful bodhisattva blueprint for life:
