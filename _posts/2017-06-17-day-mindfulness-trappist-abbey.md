@@ -23,14 +23,10 @@ We reserve one Friday each month (usually the third Friday) to practice at the A
 
 # Upcoming Days of Mindfulness
 
-Friday, May 19 (3rd Friday)
-
-Friday, June 16 (3rd Friday)
-
-Friday, July 21 (3rd Friday)
-
-Friday, Aug 11	(2nd Friday)
-
-Friday, Sept 8	(2nd Friday
-
 Friday, Oct 27	(4th Friday)
+
+Friday, Dec 15	(3rd Friday)
+
+Friday, Jan 12	(2nd Friday)
+
+Friday, Feb 16	(3rd Friday)
