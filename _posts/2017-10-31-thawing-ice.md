@@ -3,7 +3,7 @@ layout: event
 title:  "Thawing ICE walking meditation vigil"
 permalink: /events/mindfulwalk/
 start-date:   2017-12-14
-end-date: 2017-11-14  
+end-date: 2017-12-14  
 location: "ICE processing center<br>4310 SW Macadam at John’s Landing"
 link: 
 image-link: /events/mindfulwalk.jpg
