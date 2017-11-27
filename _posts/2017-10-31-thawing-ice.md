@@ -2,14 +2,14 @@
 layout: event
 title:  "Thawing ICE walking meditation vigil"
 permalink: /events/mindfulwalk/
-start-date:   2017-12-07
-end-date: 2017-11-07  
+start-date:   2017-12-14
+end-date: 2017-11-14  
 location: "ICE processing center<br>4310 SW Macadam at John’s Landing"
 link: 
 image-link: /events/mindfulwalk.jpg
 ---
 
-Reminder that the November 9, is the monthly Thawing ICE walking meditation vigil at the ICE headquarters at 4310 SW Macadam (Macadam and Bancroft) from 12-1 pm.  
+Reminder that the December 14, is the monthly Thawing ICE walking meditation vigil at the ICE headquarters at 4310 SW Macadam (Macadam and Bancroft) from 12-1 pm.  
 
 The 4th Thursday is a vigil sponsored by IMIrJ at the same place from 10-11 am.
 
