@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "OI and Aspirant Winter Retreat"
-permalink: /events/day-mindfulness-trappist-abbey/
+permalink: /events/winter-retreat-2018/
 location: "St. Benedict Retreat and Conference Center<br>56630 North Bank Rd.<br>McKenzie Bridge, Or. 97413"
 start-date:  2018-01-17
 end-date:   2018-01-21
