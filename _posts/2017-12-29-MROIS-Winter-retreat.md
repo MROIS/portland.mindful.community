@@ -12,7 +12,7 @@ image-link: /events/avalo.jpg
 
 <div align="center">
 
-<h3>Many Rivers OI sanghas (MROIS) and friends for our 2018 Winter Study &amp; Practice Retreat</h3><br>
+<h3>Many Rivers OI sanghas (MROIS) and friends 2018 Winter Study &amp; Practice Retreat</h3><br>
 
 with the theme:<br>
 
