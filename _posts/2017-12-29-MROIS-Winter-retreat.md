@@ -12,12 +12,8 @@ image-link: /events/avalo.jpg
 
 <div align="center">
 
-<h3>Many Rivers OI sanghas (MROIS) and friends 2018 Winter Study &amp; Practice Retreat</h3><br>
-
-with the theme:<br>
-
-<em>“One Bodhisattva of Great Compassion is Not Enough:<br>
-Cultivating the Five Super Powers of Avalokiteshvara”</em><br>
+<h3>One Bodhisattva of Great Compassion is Not Enough:<br>
+Cultivating the Five Super Powers of Avalokiteshvara</h3><br>
 
 </div>
 
