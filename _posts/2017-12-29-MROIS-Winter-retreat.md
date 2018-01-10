@@ -68,9 +68,9 @@ These posts are humbly offered as a jumping off place for you to explore the tea
 
 ###### Post Two: Satya—truth
 
-* What Is the True Nature of Reality?
+* [ What Is the True Nature of Reality? ](/events/MROIS-Winter-Retreat_Post-2a.pdf)
 
-* Grounding Ourselves in the Present Moment
+* [ Grounding Ourselves in the Present Moment ](/events/MROIS-Winter-Retreat_Post-2b.pdf)
 
 ###### Post Three: Visuddhi vimala—purity
 
