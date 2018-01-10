@@ -2,7 +2,7 @@
 layout: event
 title:  "Oregon Retreat with Phap Vu"
 permalink: /events/retreat-phap-vu/
-location: "Alton L. Collins Retreat Center<br>near Eagle Creek, Oregon"
+location: "Alton L. Collins Retreat Center<br>32867 OR-211<br>Eagle Creek, OR 97022"
 start-date:  2018-05-09
 end-date:   2018-05-13
 link: http://events.constantcontact.com/register/event?llr=vkplmziab&oeidk=a07ef0c9qpt26e5e1b5
