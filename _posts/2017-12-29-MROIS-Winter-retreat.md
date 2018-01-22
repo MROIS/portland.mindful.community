@@ -74,7 +74,7 @@ These posts are humbly offered as a jumping off place for you to explore the tea
 
 ###### Post Three: Visuddhi vimala—purity
 
-* What is the True Nature of Purity?
+* [ What is the True Nature of Purity? ](/events/MROIS-Winter-Retreat_Post-3a.pdf)
 
 * Cultivating Happiness
 
