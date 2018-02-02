@@ -18,11 +18,10 @@
             </div>
             {% if post.image-link %}
             <div class="col-lg-2">
-                <img class="img-fluid" src="{{post.image-link}}" alt="Event Image">
+                <a href="{{ post.url | prepend: site.baseurl }}"><img class="img-fluid" src="{{post.image-link}}" alt="Event Image"></a>
             </div>
             {% endif %}
           {% endfor %}
-
         </div>
     </div>
 </section>
