@@ -80,7 +80,7 @@ These posts are humbly offered as a jumping off place for you to explore the tea
 
 ###### Post Four: Mahaprajna—great wisdom
 
-* What is the True Nature of Great Wisdom?
+* [ What is the True Nature of Great Wisdom? ](/events/MROIS-Winter-Retreat_Post-4a.pdf)
 
 * Reciting and Chanting Words/Phrases with Great Powers (dharanis)
 
