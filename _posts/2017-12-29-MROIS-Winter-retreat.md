@@ -82,7 +82,7 @@ These posts are humbly offered as a jumping off place for you to explore the tea
 
 * [ What is the True Nature of Great Wisdom? ](/events/MROIS-Winter-Retreat_Post-4a.pdf)
 
-* Reciting and Chanting Words/Phrases with Great Powers (dharanis)
+* [ Reciting and Chanting Words/Phrases with Great Powers (dharanis)](/events/MROIS-Winter-Retreat_Post-4b.pdf)
 
 ###### Post Five: Karuna—compassion
 
