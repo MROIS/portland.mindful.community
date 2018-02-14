@@ -26,8 +26,6 @@ OI members though will be invited to help with the readings. We will use an abbr
 we received from Dharma teacher Kenley Neufield who’s been overseeing once a month, early Sunday morning,
 phone-in recitations. Please let us know if you would like to volunteer to read in upcoming months.
 
-Contact: Michelle Ritter, True Rare Garden at <a href="mailto:michelle.l.ritter@gmail.com">michelle.l.ritter@gmail.com</a>
-
 Link and an instruction sheet for your reference:
 
 <https://drive.google.com/file/d/0B71ybgGkNBOuMmFTZVBBR0V4ZFZQUDBWQklweEtqek1tclBZ/view>
