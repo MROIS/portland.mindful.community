@@ -86,7 +86,7 @@ These posts are humbly offered as a jumping off place for you to explore the tea
 
 ###### Post Five: Karuna—compassion
 
-* What is the True Nature of Compassion?
+* [ What is the True Nature of Compassion? ](/events/MROIS-Winter-Retreat_Post-5a.pdf)
 
 * Taking Refuge and Resting
 
