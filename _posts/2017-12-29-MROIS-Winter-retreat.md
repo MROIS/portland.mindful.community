@@ -88,7 +88,7 @@ These posts are humbly offered as a jumping off place for you to explore the tea
 
 * [ What is the True Nature of Compassion? ](/events/MROIS-Winter-Retreat_Post-5a.pdf)
 
-* Taking Refuge and Resting
+* [ Taking Refuge and Resting ](/events/MROIS-Winter-Retreat_Post-5b.pdf)
 
 ###### Post Six: Maitri—good will/ loving kindness
 

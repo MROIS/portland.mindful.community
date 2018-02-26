@@ -6,7 +6,7 @@ location: "Alton L. Collins Retreat Center<br>32867 OR-211<br>Eagle Creek, OR 97
 start-date:  2018-05-09
 end-date:   2018-05-13
 link: http://events.constantcontact.com/register/event?llr=vkplmziab&oeidk=a07ef0c9qpt26e5e1b5
-image-link: /events/Be-still-and-heal-TNH.jpg
+image-link: /events/Phap-Vu.jpg
 ---
 
 #### Registration Deadline May 1, 2017
