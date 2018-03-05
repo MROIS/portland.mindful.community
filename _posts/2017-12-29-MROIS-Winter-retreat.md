@@ -92,7 +92,7 @@ These posts are humbly offered as a jumping off place for you to explore the tea
 
 ###### Post Six: Maitri—good will/ loving kindness
 
-* What is the True Nature of Good Will?
+* [ What is the True Nature of Good Will? ](/events/MROIS-Winter-Retreat_Post-6a.pdf)
 
 * Practicing Gratitude
 
