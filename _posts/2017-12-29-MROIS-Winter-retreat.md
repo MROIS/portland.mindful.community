@@ -94,7 +94,7 @@ These posts are humbly offered as a jumping off place for you to explore the tea
 
 * [ What is the True Nature of Good Will? ](/events/MROIS-Winter-Retreat_Post-6a.pdf)
 
-* Practicing Gratitude
+* [ Practicing Gratitude ](/events/MROIS-Winter-Retreat_Post-6b.pdf)
 
 ###### Conclusion: Following My Own Bodhisattva Path
 
