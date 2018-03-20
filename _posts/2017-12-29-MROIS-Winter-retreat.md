@@ -98,6 +98,11 @@ These posts are humbly offered as a jumping off place for you to explore the tea
 
 ###### Conclusion: Following My Own Bodhisattva Path
 
+* [ Closing ](/events/MROIS-Winter-Retreat_Post-7.pdf)
+
+* [ MP3 Song - Part Time Buddha ](/events/Part-Time-Buddha.mp3)
+
+
 Within the posts we will explore familiar and possibly new ways of practicing, so that we may
 discover together skillful means to cultivate Great Compassion and bring our practice alive as the
 arms of the Buddha.
