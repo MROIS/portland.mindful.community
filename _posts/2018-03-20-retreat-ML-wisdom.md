@@ -6,7 +6,7 @@ location: "Mountain Lamp Community,<br>Deming, WA"
 start-date:  2018-08-29
 end-date:   2018-09-03
 link: mountainlamp.org
-image-link: /events/mountain-lamp.png
+image-link: /events/eileen-kiera.jpg
 ---
 
 
