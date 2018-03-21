@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "Retreat: Bringing the Beauty of Spirit into Form"
-permalink: /events/retreat-phap-vu/
+permalink: /events/retreat-alexa/
 location: "Trout Lake Abbey & Retreat Center"
 start-date:  2018-09-13
 end-date:   2018-09-16

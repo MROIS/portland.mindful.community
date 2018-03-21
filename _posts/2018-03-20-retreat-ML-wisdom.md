@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "Retreat: Sati as the Basis for Wisdom"
-permalink: /events/retreat-phap-vu/
+permalink: /events/retreat-ml-wisdom/
 location: "Mountain Lamp Community,<br>Deming, WA"
 start-date:  2018-08-29
 end-date:   2018-09-03

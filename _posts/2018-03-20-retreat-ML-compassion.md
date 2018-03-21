@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "Retreat: Sati and Cultivating Compassion"
-permalink: /events/retreat-phap-vu/
+permalink: /events/retreat-ml-compassion/
 location: "Mountain Lamp Community,<br>Deming, WA"
 start-date:  2018-07-07
 end-date:   2018-07-14

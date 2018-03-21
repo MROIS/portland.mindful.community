@@ -1,7 +1,7 @@
 ---
 layout: event
 title:  "Retreat: Mindfulness & Metta; The Heart of Sati"
-permalink: /events/retreat-phap-vu/
+permalink: /events/retreat-ml-meta/
 location: "Mountain Lamp Community,<br>Deming, WA"
 start-date:  2018-05-05
 end-date:   2018-05-12
