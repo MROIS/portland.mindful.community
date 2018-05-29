@@ -5,7 +5,7 @@ permalink: /events/day-mindfulness-trappist-abbey/
 location: "Our Lady of Guadalupe Trappist Abbey<br>9200 NE Abbey Road<br>Carlton , OR"
 start-date:   
 end-date:   
-link:
+link: https://www.riversanghasalem.org/day-of-mindfulness
 image-link: /events/Our-Lady-of-Guadalupe-Trappist-Abbey2.jpg
 ---
 
@@ -23,12 +23,10 @@ We reserve one Friday each month (usually the third Friday) to practice at the A
 
 # Upcoming Days of Mindfulness
 
-Friday, Jan 12  (2nd Friday)
+Friday, June 22                    (4th Friday) Patricia and Daniel are facilitating
 
-Friday, Feb 16  (3rd Friday)
+Friday, July 20                     (3rd Friday)
 
-Friday, Mar 16  (3rd Friday)
+Friday, Aug 10                     (2nd Friday)
 
-Friday, April 27  (4th Friday)
-
-Friday, May 11  (2nd Friday)	
+Friday, Sept 14                    (2nd Friday)       
