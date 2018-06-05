@@ -5,7 +5,7 @@ permalink: /events/retreat-alexa/
 location: "Trout Lake Abbey & Retreat Center"
 start-date:  2018-09-13
 end-date:   2018-09-16
-link:
+link: http://events.eventzilla.net/e/bringing-the-beauty-of-spirit-into-form-2138932319
 image-link: /events/alexa.jpg
 ---
 
@@ -14,7 +14,7 @@ image-link: /events/alexa.jpg
 
 [ Download Retreat Flyer ](/events/Alexa-Retreat-Flyer.pdf)
 
-##### September 13-16, 2018 (Registration will open in May)
+##### September 13-16, 2018 (Registration Now Open)
 
 Trout Lake Abbey & Retreat Center
 
