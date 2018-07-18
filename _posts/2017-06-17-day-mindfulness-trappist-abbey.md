@@ -23,10 +23,13 @@ We reserve one Friday each month (usually the third Friday) to practice at the A
 
 # Upcoming Days of Mindfulness
 
-Friday, June 22                    (4th Friday) Patricia and Daniel are facilitating
 
 Friday, July 20                     (3rd Friday)
 
 Friday, Aug 10                     (2nd Friday)
 
-Friday, Sept 14                    (2nd Friday)       
+Friday, Sept 14                    (2nd Friday)    
+
+Friday, Oct 12                      (2nd Friday)
+
+Friday, Nov 16                    (3rd Friday)   
