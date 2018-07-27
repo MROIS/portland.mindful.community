@@ -5,7 +5,7 @@ permalink: /events/dom-diversity/
 location: "Portland Dhamma Center<br>1404 SE 25th Avenue.<br>Corner of SE 25th & SE Madison"
 start-date:  2018-09-29
 end-date:   2018-09-29
-link: 
+link: http://events.eventzilla.net/e/day-of-mindfulness-to-support-diversity-and-inclusion-2138955088
 image-link: /events/dom-sept.jpeg
 ---
  
