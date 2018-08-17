@@ -27,3 +27,4 @@ One block North of Hawthorne. (Parking available on Hawthorne in the lots of the
 
 We are fortunate to have two wonderful and talented consultants, Dr. Roberta Hunte and Yee Won Chong, lead us in a Day of Mindfulness to explore and address the issues of diversity and inclusion in our Buddhist communities. Dr. Roberta Hunte is an educator, facilitator, researcher, mother, and cultural worker, who facilitates training on equity, diversity, and inclusion. Yee Won Chong is a racial and gender justice trainer and consultant, whose TEDx Talk, "Beyond the Gender Binary", has been widely used by educators and trainers. Both Dr. Hunte and Yee Won Chong practice Buddhism with the POC sangha in Portland. 
 
+[ Download the flyer ](/events/DOM_Diversity.pdf) 
