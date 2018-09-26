@@ -32,4 +32,8 @@ Friday, Sept 14                    (2nd Friday)
 
 Friday, Oct 12                      (2nd Friday)
 
-Friday, Nov 16                    (3rd Friday)   
+Friday, Nov 16                    (3rd Friday)
+   
+Friday, Dec 14                    (2nd Friday)
+
+Friday, Jan 11                     (2nd Friday)
